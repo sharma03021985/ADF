@@ -1,0 +1,17 @@
+{
+	"name": "pl_pipeline3",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait3",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 3
+				}
+			}
+		],
+		"annotations": []
+	}
+}
