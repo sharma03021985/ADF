@@ -1,0 +1,9 @@
+{
+	"name": "Vikashadfwithgithub",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ecf16e63-74e5-4601-beff-4410013d61fd",
+		"tenantId": "d4bc9200-2de7-46d4-a7ed-3ee5b2cf63d9"
+	}
+}
